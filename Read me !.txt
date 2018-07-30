@@ -1,0 +1,26 @@
+Hey kerbonaut !
+
+Thank to have download the Kerbal Kommander mod !
+Here are very useful informations:
+
+What is kerbal kommander ?
+
+It's a new way to play KSP, you play Jebediah Kerman a ship pilot who want to create his own space company. You will have a lot of possibility to earn money: mining, trading, doing some scientific research, grabbing asteroids, or  even  slave or weapon traffic.  This money can be use to buy better ships or hire some crew.
+
+How to install Kerbal Kommander ?
+
+- Put the "KerbalKommander" and "ModuleManager" folders in your "GameData" folder.
+- Put the folder "kerbal kommander" folder in your "saves folder".
+
+How to play ?
+
+- Start KSP and open the save kerbal kommander.
+- Go to the Tracking Station and Fly the "Kerbin station" (the first).
+- Jebediah will be in the station. 
+- First, you need a ship click on a screen and select "Ship shop", a window will appear, now you can buy a ship or create a new one by clicking on "Buy a ship" or "design a new ship" if you don't have create a ship.
+- Then you are ready to earn money by doing trading, mining, selling asteroides, traffic slaves. With this money, you can upgrade your ship, buy some others, hire some crew and become the richest company of the Kerbol system !
+Will you become an honest trader or a pirate who sell weapons and slaves ?
+
+Good luck captain !
+
+Gagarine Kerman :)
