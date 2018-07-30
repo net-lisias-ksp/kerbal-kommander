@@ -1,5 +1,7 @@
 # Kerbal Kommander :: Change Log
 
+* 2016-0624: 0.1.5 (GagarineKerman) for KSP 1.1.3
+	+ fix the problem that when you hire a crew, it gived you money instead of take it 
 * 2016-0624: 0.1.4 (GagarineKerman) for KSP 1.1.3
 	+ Add ship directly in the save, this ships are made by [Veeltch](http://forum.kerbalspaceprogram.com/index.php?/profile/39636-veeltch/)
 	+ Fix the hire system, it now remove some money;
