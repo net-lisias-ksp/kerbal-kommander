@@ -1,5 +1,11 @@
 # Kerbal Kommander :: Change Log
 
+* 2016-0624: 0.1.4 (GagarineKerman) for KSP 1.1.3
+	+ Add ship directly in the save, this ships are made by [Veeltch](http://forum.kerbalspaceprogram.com/index.php?/profile/39636-veeltch/)
+	+ Fix the hire system, it now remove some money;
+correct "Dimond" to "Diamond";
+	+ Adding a "refresh" button to the crew hire window to regenerate crew;
+	+ fix bug that could append when you use a kerbal to open menu;
 * 2016-0623: 0.1.2 (GagarineKerman) for KSP 1.1.3
 	+ try to correct the random explosions when we spawn a vessel 
 * 2016-0622: 0.1.1 (GagarineKerman) for KSP 1.1.3
