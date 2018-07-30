@@ -24,3 +24,10 @@ Will you become an honest trader or a pirate who sell weapons and slaves ?
 Good luck captain !
 
 Gagarine Kerman :)
+
+info:
+Mod version: 0.1.4
+KSP recommanded version: 1.1.3
+
+Credits:
+A big thanks to Veeltch (http://forum.kerbalspaceprogram.com/index.php?/profile/39636-veeltch/) who creat some ships and station for the mod ! ;)
