@@ -1,0 +1,2 @@
+/Users/lisias/Workspaces/KSP/GIT/net.lisias.kspu/kerbal-kommander/Source/obj/Debug/Kerbal Kommander.csprojResolveAssemblyReference.cache
+/Users/lisias/Workspaces/KSP/GIT/net.lisias.kspu/kerbal-kommander/Source/obj/Debug/Kerbal Kommander.csproj.CoreCompileInputs.cache
