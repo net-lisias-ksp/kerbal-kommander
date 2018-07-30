@@ -1,4 +1,4 @@
-# Kerbal Kommander (History)
+# Kerbal Kommander Unofficial
 
 GagarinKerman's Kerbal Kommander - Unofficial Repository by Lisias
 
@@ -8,6 +8,7 @@ GagarinKerman's Kerbal Kommander - Unofficial Repository by Lisias
 * [Latest Release](https://github.com/net-lisias-kspu/kerbal-kommander/releases)
 	* [Older Binaries](https://github.com/net-lisias-kspu/kerbal-kommander/tree/Archive)
 * [Source](https://github.com/net-lisias-kspu/kerbal-kommander)
+	* [History](https://github.com/net-lisias-kspu/kerbal-kommander/tree/History)
 * [Change Log](./CHANGE_LOG.md)
 
 
