@@ -1,5 +1,8 @@
 # Kerbal Kommander :: Change Log
 
+* 2016-0715: 0.2.1 (GagarineKerman) for KSP 1.1.3
+	+ Fix a Kerbal experience bug
+	+ Add 4 ships 
 * 2016-0714: 0.2 (GagarineKerman) for KSP 1.1.3
 	+ A LOT of bug fix
 	+ new space stations
