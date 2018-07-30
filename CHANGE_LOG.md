@@ -1,5 +1,7 @@
 # Kerbal Kommander :: Change Log
 
+* 2016-0715: 0.2.2 (GagarineKerman) for KSP 1.1.3
+	+ fix a bug on the "refill all" 
 * 2016-0715: 0.2.1 (GagarineKerman) for KSP 1.1.3
 	+ Fix a Kerbal experience bug
 	+ Add 4 ships 
