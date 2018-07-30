@@ -1,3 +1,4 @@
+// Types of stock contracts : ARM, Base, Flag, Grand, ISRU, Recovery, Satellite, Science, Station, Survey, Test, Tour
 Hey kerbonaut !
 
 Thank to have download the Kerbal Kommander mod !
@@ -24,19 +25,31 @@ Will you become an honest trader or a pirate who sell weapons and slaves ?
 
 Good luck captain !
 
-How to Update a Kerbal Kommander Game ?
+How to Update a Kerbal Kommander Game from 0.2 to 0.3?
 
 - Start KSP and open the save.
 - Click on the app button at the bottom left hand corner
-- Make sure that all your vessel are undock with the stations and that there are no crew on the stations.
-- Click on "Update The Game"
+- Click on "Update The Game to 0.3"
 - The game is now update, you can play and enjoy all the new features
-
+(if you want to update a game from 0.1 to 0.3, youneed to update it to 0.2 and then to 0.3)
 Gagarine Kerman :)
 
 info:
-Mod version: 0.2.2
-KSP recommanded version: 1.1.3
+Mod version: 0.3
+KSP recommanded version: 1.2
+
+
+Changelog:
+- Adding 5 new contract for kerbals kommanders games:
+	- Infiltrations missions: you need to infiltrate an ennemy station to destroy it
+	- Refueling contract: you have to carry some ressources to a ship
+	- Rescue mission: you have to pick up lost crew and bring them back to a station
+	- Tourism Contract: you have to pick up crew in a station and ferry them to another one
+	- Trading Contract: you have to carry some ressources to a station
+- Adding a "shield" for the station, you can't destroy them
+- Fix the docking bug
+- codes improvements
+
 
 Credits:
 A big thanks to:

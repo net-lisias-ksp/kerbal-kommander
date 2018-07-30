@@ -1,5 +1,15 @@
 # Kerbal Kommander :: Change Log
 
+* 2016-1016: 0.3 (GagarineKerman) for KSP 1.2.1
+	+ Adding 5 new contract for kerbals kommanders games:
+		- Infiltrations missions: you need to infiltrate an ennemy station to destroy it
+		- Refueling contract: you have to carry some ressources to a ship
+		- Rescue mission: you have to pick up lost crew and bring them back to a station
+		- Tourism Contract: you have to pick up crew in a station and ferry them to another one
+		- Trading Contract: you have to carry some ressources to a station
+	+ Adding a "shield" for the station, you can't destroy them
+	+ Fix the docking bug
+	+ codes improvements
 * 2016-0715: 0.2.2 (GagarineKerman) for KSP 1.1.3
 	+ fix a bug on the "refill all" 
 * 2016-0715: 0.2.1 (GagarineKerman) for KSP 1.1.3
